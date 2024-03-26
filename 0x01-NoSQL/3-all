@@ -1,0 +1,3 @@
+//collection school
+//data with name
+db.school.find()
